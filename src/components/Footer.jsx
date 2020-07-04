@@ -3,7 +3,7 @@ import { FaGithub } from "react-icons/fa";
 
 export default function Footer() {
   return (
-    <div className=" d-flex flex-row justify-content-center fixed-bottom">
+    <div className=" d-flex flex-row justify-content-center fixed-bottom bg-light">
       <a href="https://github.com/Zainab6" target="_blank">
         <FaGithub className="mx-3" /> Zainab Saud
       </a>
